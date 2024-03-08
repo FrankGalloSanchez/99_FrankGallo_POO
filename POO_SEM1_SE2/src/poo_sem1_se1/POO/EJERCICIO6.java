@@ -1,5 +1,5 @@
 /*Tener dos variables y realizar las 4 operaciones pero que se ingrese los datos usando JOptionPane y que el resultado se muestre 4 ventanas con JOptionPane*/
-package POO;
+package poo_sem1_se1.POO;
 import javax.swing.JOptionPane;
 
 public class EJERCICIO6 {

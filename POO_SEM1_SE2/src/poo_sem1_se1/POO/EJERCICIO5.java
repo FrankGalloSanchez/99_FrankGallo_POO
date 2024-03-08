@@ -1,4 +1,4 @@
-package POO;
+package poo_sem1_se1.POO;
 import javax.swing.JOptionPane;
 
 public class EJERCICIO5 {

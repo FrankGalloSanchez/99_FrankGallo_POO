@@ -1,4 +1,4 @@
-package poo_sem1_se2;
+package poo_sem1_se2.POO;
 
 import java.util.Scanner;
 

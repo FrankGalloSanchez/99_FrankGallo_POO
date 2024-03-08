@@ -1,5 +1,5 @@
 /*SUMAR DOS NUMEROS*/
-package POO;
+package poo_sem1_se1.POO;
 
 public class EJERCICO1 {
     public static void main(String[] args){
