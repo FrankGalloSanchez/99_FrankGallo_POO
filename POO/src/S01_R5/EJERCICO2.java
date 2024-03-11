@@ -1,5 +1,5 @@
 /*TODAS LAS OPERACIONES*/
-package poo_sem1_se1.POO;
+package S01_R5;
 
 public class EJERCICO2 {
     public static void main(String[] args) {

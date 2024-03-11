@@ -1,4 +1,4 @@
-package poo_sem1_se2.POO;
+package S02_R5;
 
 import javax.swing.JOptionPane;
 
