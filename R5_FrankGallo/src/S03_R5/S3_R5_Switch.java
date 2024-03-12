@@ -1,14 +1,5 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package S03_R5;
 
-/**
- *
- * @author user
- */
 public class S3_R5_Switch {
 
     public static void main(String[] args) {
@@ -26,5 +17,21 @@ public class S3_R5_Switch {
                 break;
         }
 
+        String b = "pantalon";
+
+        switch (b) {
+            case "polo":
+                System.out.println("estas comprando un polo");
+                break;
+            case "short":
+                System.out.println("estas comprando un short");
+                break;
+            case "chompa":
+                System.out.println("estas comprando una chompa");
+                break;
+            default:
+                System.out.println("no encontre las prenda");
+                break;
+        }
     }
 }
